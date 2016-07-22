@@ -1,7 +1,19 @@
 # test
 test project
 
+<!DOCTYPE html>
 <html>
-<h3>welcome test <h3>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+</head>
+<body>
+    <h3>Restarant order</h3>
+    <ul>
+        <li>add meal</li>
+        <li>add order</li>
+        <li>Reports</li>
 
+    </ul>
+</body>
 </html>

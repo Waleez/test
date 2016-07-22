@@ -1,7 +1,6 @@
 # test
 test project
 
-<!DOCTYPE html>
 <html>
 <head>
     <title></title>
